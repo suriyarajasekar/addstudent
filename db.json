@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "laksha",
+      "phoneNumber": "43523"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "phoneNumber": ""
+    },
+    {
+      "id": 4,
+      "name": "ewrw",
+      "phoneNumber": "325235"
+    },
+    {
+      "id": 5,
+      "name": "",
+      "phoneNumber": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
